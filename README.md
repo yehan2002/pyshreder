@@ -9,4 +9,4 @@ requires shred to be installed
  
  or
  
- - import it and call shread(location,location,iteration=6,zero=True,delfile=True,parent=True,args=[],prepend=[],debug=False)
+ - import it and call `shread(location,location,iteration=6,zero=True,delfile=True,parent=True,args=[],prepend=[],debug=False)`
